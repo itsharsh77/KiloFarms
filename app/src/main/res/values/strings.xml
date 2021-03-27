@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KiloFarms</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="phone">Mobile No</string>
+    <string name="welcome">Welcome to KiloFarms</string>
+    <string name="productName">Product  Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="existing">Existing users login</string>
+    <string name="firstTime">First time user? Fill All</string>
+    <string name="forgot">Forgot Password?</string>
+    <string-array name="ProductCategory">
+        <item>Select</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Others</item>
+    </string-array>
+</resources>
